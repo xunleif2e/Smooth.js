@@ -13,6 +13,7 @@
 [        Future Plans](#rm-future)<br/>
 
 <a name = "rm-what" />
+
 # What is this for?
 
 Smooth.js takes an array of numbers or vectors and returns a parametric function that continuously interpolates
