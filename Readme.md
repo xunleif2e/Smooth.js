@@ -1,6 +1,6 @@
 ![Smooth.js](images/logo-white.png)
 
-####Table of Contents
+#### Table of Contents
 
 - [What is this for?](#rm-what)
 - [How do I use it?](#rm-how)
@@ -248,7 +248,8 @@ console.log(s(1));		// => 1
 ```
 
 <a name="rm-valid" />
-###Validation
+
+### Validation
 
 By default the input array you pass to `Smooth` will be examined thoroughly to make sure that the input is 
 valid, and exceptions will be thrown if any problems are found. This can be a performance consideration if you
